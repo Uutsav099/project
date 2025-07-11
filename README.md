@@ -1,2 +1,4 @@
-#  GIthub_t
+#  Github_t
+This is my first repository
+<br>
 Author-utsav chaurasiya
